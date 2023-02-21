@@ -1,0 +1,40 @@
+ProviderID,PType,ProviderName,NumberOfOption,GetAppPoint,URL,price (/mo),storage (GB),saving (in %),certificate,support,website,bandwidth,backup,database,ram,email,cores,GPU type,GPU size
+1,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,1.0,56,NULL,NULL,NULL,1.0,1 GB RAM  20 GB SSD Disk space  1 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,1.0,NULL,NULL,,NULL
+2,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,2.0,54,NULL,NULL,NULL,2.0,2 GB RAM  40 GB SSD Disk space  2 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,2.0,NULL,NULL,,NULL
+3,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,3.0,60,NULL,NULL,NULL,3.0,3 GB RAM  60 GB SSD Disk space  3 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,3.0,NULL,NULL,,NULL
+4,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,4.0,63,NULL,NULL,NULL,4.0,4 GB RAM  80 GB SSD Disk space  4 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,4.0,NULL,NULL,,NULL
+5,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,6.0,70,NULL,NULL,NULL,6.0,6 GB RAM  120 GB SSD Disk space  6 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,6.0,NULL,NULL,,NULL
+6,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,8.0,65,NULL,NULL,NULL,8.0,8 GB RAM  160 GB SSD Disk space  8 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,8.0,NULL,NULL,,NULL
+7,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,12.0,65,NULL,NULL,NULL,12.0,12 GB RAM  200 GB SSD Disk space  10 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,12.0,NULL,NULL,,NULL
+8,host,hostinger,8,4.6,https://www.hostinger.com/vps-hosting,NULL,16.0,65,NULL,NULL,NULL,16.0,16 GB RAM  250 GB SSD Disk space  12 TB Bandwidth  1 Snapshot  Weekly Backups  Dedicated IP Address  Full Root Access,NULL,16.0,NULL,NULL,,NULL
+9,drive,sync,3,4.9,https://www.sync.com/pricing-individual/,0,5.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+10,drive,sync,3,4.9,https://www.sync.com/pricing-individual/,8,2048.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+11,drive,sync,3,4.9,https://www.sync.com/pricing-individual/,20,6144.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+12,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,0.45,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,8.0,NULL,NULL,M4000,8.0
+13,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,0.51,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,8.0,NULL,NULL,P4000,8.0
+14,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,0.78,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,16.0,NULL,NULL,P5000,16.0
+15,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,1.10,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,24.0,NULL,NULL,P6000,24.0
+16,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,2.30,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,16.0,NULL,NULL,V100,16.0
+17,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,0.56,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,30.0,NULL,NULL,RTX4000,30.0
+18,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,0.82,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,30.0,NULL,NULL,RTX5000,30.0
+19,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,0.76,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45.0,NULL,NULL,A4000,45.0
+20,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,1.38,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45.0,NULL,NULL,A5000,45.0
+21,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,1.89,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,45.0,NULL,NULL,A6000,45.0
+22,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,3.09,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,90.0,NULL,NULL,A100,90.0
+23,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,90.0,NULL,NULL,A100,90.0
+24,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,1.56,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,32.0,NULL,NULL,P5000,32.0
+25,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,2.20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,60.0,NULL,NULL,P6000,60.0
+26,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,4000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,8.0,NULL,NULL,M4000,8.0
+27,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,4000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,8.0,NULL,NULL,P4000,8.0
+28,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,5000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,16.0,NULL,NULL,P5000,16.0
+29,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,6000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,24.0,NULL,NULL,P6000,24.0
+30,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,100,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,16.0,NULL,NULL,V100,16.0
+31,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,4000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,30.0,NULL,NULL,RTX4000,30.0
+32,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,5000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,30.0,NULL,NULL,RTX5000,30.0
+33,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,4000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,44.0,NULL,NULL,A4000,44.0
+34,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,5000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,44.0,NULL,NULL,A5000,44.0
+35,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,6000,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,90.0,NULL,NULL,A6000,90.0
+36,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,100,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,90.0,NULL,NULL,A100,90.0
+37,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,100,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,90.0,NULL,NULL,A100,90.0
+38,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,1.56,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,32.0,NULL,NULL,P5000,32.0
+39,vm,paperspace,28,3.4,https://www.paperspace.com/pricing,2.20,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,60.0,NULL,NULL,P6000,60.0

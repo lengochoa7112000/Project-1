@@ -1,0 +1,4 @@
+ProviderID,PType,ProviderName,NumberOfOption,GetAppPoint,URL,price (/mo),storage (GB),saving (in %),certificate,support,website,bandwidth,backup,database,ram,email,cores,GPU type,GPU size
+1,drive,sync,3,4.9,https://www.sync.com/pricing-individual/,0,5.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+2,drive,sync,3,4.9,https://www.sync.com/pricing-individual/,8,2048.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
+3,drive,sync,3,4.9,https://www.sync.com/pricing-individual/,20,6144.0,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,,NULL
